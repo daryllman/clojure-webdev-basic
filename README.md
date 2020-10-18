@@ -1,6 +1,6 @@
 # clojure-webdev-basic
 
-A Clojure library designed to ... well, that part is up to you.
+Basic Clojure webdev project..
 
 ## Usage
 
